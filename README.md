@@ -1,16 +1,4 @@
 # store_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![226148200-91b972b4-ea7d-4bad-b703-28a49b17b24f](https://user-images.githubusercontent.com/108914401/226316956-882c9076-f661-485d-bc46-3a6174274f43.gif)
+![226148074-ac043d5d-d1d1-4953-ba25-de7894bbcc6e](https://user-images.githubusercontent.com/108914401/226317212-bee2172b-93b5-43da-ad3d-83341bb31416.png)
